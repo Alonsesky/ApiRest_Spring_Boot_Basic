@@ -15,7 +15,7 @@ Es verdad que este proyecto puede que sea muy básico pero es importante destaca
 
 *Si quieres probar debes crear un archivo ".env" que contengan la información para conectar la Base de Datos (MySql), tendrás un arhivo ".env Template" para que tengas acceso a las variables a rellenar.
 
-**Dependencias Utilizadas**
+  **Dependencias Utilizadas:**
 - **Spring Data JPA**: Soporte para JPA y repositorios.
 - **Spring Web**: Herramientas para el desarrollo web.
 - **Spring Boot DevTools**: Herramientas para el desarrollo (en tiempo de ejecución).
